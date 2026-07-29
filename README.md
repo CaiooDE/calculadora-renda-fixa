@@ -3,6 +3,8 @@
 Calculadora responsiva para projetar investimentos em renda fixa com juros
 compostos, aportes mensais ou anuais e reajustes recorrentes.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2FCaiooDE%2Fcalculadora-renda-fixa)
+
 ## Recursos
 
 - projeção mês a mês com taxa mensal;
